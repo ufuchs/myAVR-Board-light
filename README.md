@@ -5,7 +5,7 @@ Evaluation programs for the 'myAVR Board light'
 
 First you need this [DIY-kit](http://shop.myavr.de/index.php?sp=article.sp.php&artID=200084)
 
-[myAVR-Board-light](https://dl.dropboxusercontent.com/u/16995368/P1000334.JPG)
+![myAVR-Board-light](https://dl.dropboxusercontent.com/u/16995368/P1000334.JPG)
 
 This means you have to solder it together yourself.
 
