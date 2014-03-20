@@ -9,7 +9,7 @@ First you need this [DIY-kit](http://shop.myavr.de/index.php?sp=article.sp.php&a
 
 This means you have to solder it together yourself.
 
-The board uses CP2102 controller as UARTtoUSB converter.
+The board uses a CP2102 controller as UARTtoUSB converter.
 
 The matching Windows driver you can download from [here](http://shop.myavr.de/index.php?ws=download_file.ws.php&dlid=46&filename=treiber/tool_usb-treiber-myavr-board-v6.6.1.zip)
 
