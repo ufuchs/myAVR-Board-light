@@ -20,9 +20,9 @@ $baud = 9600
 '
 ' Port B
 '
-Ddrb = &B00000111
+Ddrb = &B00001110
 
-Rot Alias Portb.0
+Rot Alias Portb.3
 Gelb Alias Portb.1
 Gruen Alias Portb.2
 
