@@ -1,0 +1,12 @@
+#!/bin/sh
+
+PORT=com13
+
+PROGRAM=$1
+
+[ -z $PROGRAM ] && {
+	echo Leer
+	return -1
+}
+
+avrdude -p m8 -c stk500 -P $PORT -b 115200 -U flash:w:$PROGRAM.hex:i
